@@ -1,0 +1,55 @@
+.headlines {
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif
+}
+body {
+    background: url(/img/background.jpg) rgba(203, 204, 182, 0.6) no-repeat fixed;
+    background-blend-mode: color;
+}
+.text {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    background-color: rgba(203, 204, 182, 0.2);
+    max-width: 1000px;
+    width: 100%;
+}   
+.text-notes {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(203, 204, 182, 0.2);
+    max-width: 1000px;
+    width: 100%;
+}
+.text-dialog {
+    font-style: italic;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(203, 204, 182, 0.2);
+    max-width: 1000px;
+    width: 100%;
+}
+.contents {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.emphasize {
+    font-size: 20px;
+    text-decoration: underline;
+    background-color: rgba(203, 204, 182, 0.2);
+    max-width: 1000px;
+    width: 100%;
+}
+.text-dialogstyle {
+    background-color:rgba(214, 70, 54, 0.4);
+    max-width: 1000px;
+    width: 100%;
+}
+.bookmenu {
+    position: fixed;
+    background-color:rgba(214, 70, 54, 0.4);
+    right: 20px;
+    top: 20px;
+}
